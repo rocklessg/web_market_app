@@ -6,4 +6,3 @@ from .models import Course
 def index(request):
     iworld_market = Course.objects.all()
     return render(request, 'index.html', {'courses': iworld_market})
-
