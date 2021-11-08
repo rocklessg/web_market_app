@@ -1,6 +1,6 @@
 # market web app
  
-Test project for institution market web app...
+Project for institution's Course marketing...
  
  A Project of market store for Tech institutions. 
  Where visitors can choose the courses(with descriptions such as price, seats available, discount e.t.c)
